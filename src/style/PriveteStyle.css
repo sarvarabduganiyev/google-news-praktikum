@@ -1,0 +1,9 @@
+@media (max-width: 1000px) {
+  .search__wrapper {
+    flex-direction: column;
+  }
+  .search__wrapper button {
+    width: 100%;
+    margin: 20px 0px 0px 0px;
+  }
+}
